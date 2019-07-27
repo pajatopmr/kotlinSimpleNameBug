@@ -1,0 +1,4 @@
+rootProject.name = 'kotlinSimpleNameBug'
+
+
+enableFeaturePreview('GRADLE_METADATA')
